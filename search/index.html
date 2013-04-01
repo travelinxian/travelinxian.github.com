@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  搜索
+title:  Search
 
 pageClass: page-type-search
 
@@ -12,7 +12,7 @@ logoType: -90x30
 <div id="cse" style="width: 100%;">Loading</div>
 <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript"> 
-google.load('search', '1', {language : 'zh-CN', style : google.loader.themes.MINIMALIST});
+google.load('search', '1', {language : 'en-US', style : google.loader.themes.MINIMALIST});
 google.setOnLoadCallback(function() {
         var customSearchOptions = {};
         var orderByOptions = {};
@@ -23,7 +23,7 @@ google.setOnLoadCallback(function() {
         imageSearchOptions['layout'] = google.search.ImageSearch.LAYOUT_POPUP;
         customSearchOptions['enableImageSearch'] = true;
         customSearchOptions['imageSearchOptions'] = imageSearchOptions;  var customSearchControl = new google.search.CustomSearchControl(
-            '001159418307054042214:uv4-7w5gr_k', customSearchOptions);
+            '001159418307054042214:t13d1pixw_u', customSearchOptions);
         customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
         customSearchControl.draw('cse');
 
@@ -36,7 +36,7 @@ google.setOnLoadCallback(function() {
 
         if (param) {
             param = decodeURIComponent(param);
-            document.title = "搜索:" + param + " / 找寻模式";
+            document.title = "Search:" + param + " / Travel In Xi'an";
             customSearchControl.execute(param);
         }   
         }, true);
