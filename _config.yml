@@ -11,6 +11,7 @@ custom:
     category:
         Places: Places
         Persons: Persons
+        Others: Others
     categories:
       - name: Places 
         title: Places
@@ -18,9 +19,12 @@ custom:
       - name:  Persons
         title: Persons
 
+      - name:  Others
+        title: Others
+
 meta:
     authors:
-      - name: Tower Joo
+      - name: Zhu Tao
         email: zhutao.iscas@gmail.com
         gravatar: 1cd8c12591616d8c22aaa624f8c07834
 
