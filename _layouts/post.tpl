@@ -29,10 +29,14 @@ scripts:
 
 </div>
 <div id="disqus_thread" class="comments"></div>
-<!-- JiaThis Button BEGIN -->
-<script type="text/javascript">var jiathis_config = {data_track_clickback:true};</script>
-<script type="text/javascript" src="http://v3.jiathis.com/code_mini/jiathis_r.js?move=0&amp;btn=r2.gif&amp;uid=89469" charset="utf-8"></script>
-<!-- JiaThis Button END -->
+<!-- shareThis Button BEGIN -->
+<script type="text/javascript">stLight.options({publisher: "bc7540ea-bcfc-43fa-a9b9-5f1b10be45ad", doNotHash: false, doNotCopy: false, hashAddressBar: true});</script>
+<script>
+var options={ "publisher": "bc7540ea-bcfc-43fa-a9b9-5f1b10be45ad", "position": "right", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "googleplus", "linkedin", "pinterest", "email", "sharethis"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+
+<!-- shareThis Button END -->
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
