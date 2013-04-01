@@ -1,4 +1,4 @@
-travelinxian
-============
+找寻模式
+======================
 
-the blog site
+点击访问: <http://towerjoo.github.com/>

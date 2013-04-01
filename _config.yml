@@ -1,0 +1,29 @@
+markdown: kramdown
+pygments: true
+safe: false
+permalink: /blog/:year/:month/:day/:title
+exclude:
+  - README.md
+
+host: travelinxian.github.com
+
+custom:
+    category:
+        Places: Places
+        Persons: Persons
+    categories:
+      - name: Places 
+        title: Places
+
+      - name:  Persons
+        title: Persons
+
+meta:
+    authors:
+      - name: Tower Joo
+        email: zhutao.iscas@gmail.com
+        gravatar: 1cd8c12591616d8c22aaa624f8c07834
+
+    gravatar:
+        base: http://www.gravatar.com/avatar/
+        param: ?s=
