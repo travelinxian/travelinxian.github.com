@@ -7,15 +7,15 @@ tags: ChangAn QinLing ForestPark
 
 You may hear of Chang An before your coming to Xi'an. Chang An is the old name
 of Xi'an in history, as we all know, it's one of the four civilized ancient countries
-in the world. And as a ancient city in China, there're 13 empires in China's history to
+in the world. And as an ancient city in China, there're 13 empires in China's history to
 make Chang An as the capital.
 
 Now, with the new China(PRC) has established since 1949, Xi'an is the new name of the city,
-while Chang An one of the disticts in Xi'an, which locates in South of Xi'an. And today I want
+while Chang An is one of the districts in Xi'an, which locates in South of Xi'an. And today I want
 to focus on the Chang An District and want to share some interesting stuffs about this place.
 
-Comparing to other disticts in Xi'an, Chang An is in the outskirt and it's very near to the 
-QingLing Mountain, and it's the biggest district in Xi'an, and also maybe the least developing
+Comparing to other districts in Xi'an, Chang An is in the outskirt and it's very near to the 
+QingLing Mountain, and it's the biggest district in Xi'an, and also may be the least developing
 area in Xi'an. But that means you can find something very interesting as the real rural life
 of this ancient place.
 
@@ -27,7 +27,7 @@ the mountain becomes more and more clear.
 Then the mountian is in front of your eyes, which every detail is easy to catch. From here, you can 
 foget the city and immerse yourself in the great beauty of nature, with mountains, rivers, and forests.
 
-You can choose to climb the mountain or forest park, or the rural families for the good meals.
+You can choose to climb the mountain or walk in the forest park, or visit the rural families for the good meals.
 
 Let's talk them one by one.
 
@@ -53,9 +53,9 @@ the green plans around, the spoondrift when the water drops hit the surface of t
 There're lots of pine trees in the mountain. No matter near or far, you can see the green filled in your eyes. 
 Maybe you will meet some small animals like squirrels, and birds like eagles, etc.
 
-## Rural hotel and meals
+## Rural inn and meals
 
-There're a lot of rural hotel and families to welcome visitors everyday, and they provide complete services after
+There're a lot of rural inn and families to welcome visitors everyday, and they provide complete services after
 several years developing, including fishing(then you can barbecue what you have fished), barbecue, Ma Jiang, etc.
 
 Every weekend, the people from Xi'an downtown will come here to find some interesting places and enjoy the weekend
